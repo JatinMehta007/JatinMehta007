@@ -32,12 +32,12 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinmehta007&show_icons=true&locale=en&layout=compact" alt="jatinmehta007" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinmehta007&show_icons=true&locale=en&layout=compact" alt="jatinmehta007" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinmehta007&show_icons=true&locale=en" alt="jatinmehta007" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinmehta007&" alt="jatinmehta007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinmehta007&" alt="jatinmehta007" /></p>
 
 
 <table align="center">
