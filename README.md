@@ -59,4 +59,13 @@
 
 
 
+  <a href="mehtajatin045@gmail.com" >
+    <img align="center" alt="kairvee | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://x.com/jatinmehta35630?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kairveee" height="30" width="40" /></a>
+
+
+
+
+
 ---
