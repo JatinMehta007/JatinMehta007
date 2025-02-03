@@ -61,7 +61,7 @@
 
   <a href="mehtajatin045@gmail.com" >
     <img align="center" alt="kairvee | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-<a href="https://twitter.com/https://x.com/jatinmehta35630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/jatinmehta35630" height="30" width="40" /></a>
+<a/><a href="https://twitter.com/https://x.com/jatinmehta35630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/jatinmehta35630" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-mehta-a70a0025a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-mehta-a70a0025a/" height="30" width="40" /></a>
 </p>
 
