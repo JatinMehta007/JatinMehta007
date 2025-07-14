@@ -49,8 +49,14 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-mehta-a70a0025a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-mehta-a70a0025a/" height="30" width="40" /></a>
 </p>
 
-![Jatin's GitHub Contribution Graph](https://ghchart.rshah.org/JatinMehta007)
+<details>
+  <summary>📱 Tap to view GitHub Contribution Graph (best seen on mobile)</summary>
 
+  <br/>
+
+  ![Jatin's GitHub Contribution Graph](https://ghchart.rshah.org/JatinMehta007)
+
+</details>
 
 
 ---
