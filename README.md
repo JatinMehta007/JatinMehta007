@@ -10,8 +10,6 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on `Backend` Development .
-- 🌱 I’m currently learning  `nextjs`
 - 👯 I’m looking to collaborate with Frontend Developers.
 - 🤔 I’m looking for help with full stack projects.
 - ⚙️ I use daily: `.js`, `.cpp`, `.jsx`, `.ts`
@@ -23,7 +21,7 @@
 </table>
 
     
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <hr>
 
 
