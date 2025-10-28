@@ -42,8 +42,7 @@
 </tr>
 </table>
 
-[![Jatin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JatinMehta007)](https://github.com/JatinMehta007/github-readme-activity-graph)
-[![Jatin's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JatinMehta007&theme=dark&area=true)](https://github.com/JatinMehta007/github-readme-activity-graph)
+[![Jatin_Mehta's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JatinMehta007&theme=dark_title&area=true&bg_color=0D1117&line=58A6FF&point=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
