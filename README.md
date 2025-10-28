@@ -53,6 +53,4 @@
 
 ---
 
-
-        c44{27.97%{fill:var(--c1)}27.99%,to{fill:var(--ce)}}@keyframes
        
