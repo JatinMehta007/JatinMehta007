@@ -43,7 +43,7 @@
 </table>
 
 [![Jatin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/JatinMehta007/github-readme-activity-graph)
-[![Jatin's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dark&area=true)](https://github.com/JatinMehta007/github-readme-activity-graph)
+[![Jatin's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JatinMehta007&theme=dark&area=true)](https://github.com/JatinMehta007/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
