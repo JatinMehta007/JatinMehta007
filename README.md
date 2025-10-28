@@ -42,6 +42,9 @@
 </tr>
 </table>
 
+[![Jatin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/JatinMehta007/github-readme-activity-graph)
+[![Jatin's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dark&area=true)](https://github.com/JatinMehta007/github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/jatinmehta35630" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/jatinmehta35630" height="30" width="40" /></a>
