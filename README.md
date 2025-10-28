@@ -25,22 +25,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <hr>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinmehta007&show_icons=true&locale=en&layout=compact" alt="jatinmehta007" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinmehta007&show_icons=true&locale=en" alt="jatinmehta007" /></p>
 
-
-<p align="center">
-<!-- 1. Top Languages Card (Dark Theme) -->
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Djatinmehta007%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Ddark" alt="Jatin Mehta Top Languages" />
-</p>
-
-<p align="center">
-<!-- 2. Main Stats Card (Dark Theme) -->
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djatinmehta007%26show_icons%3Dtrue%26locale%3Den%26theme%3Ddark" alt="Jatin Mehta GitHub Stats" />
-</p>
-
-<p align="center">
-<!-- 3. Streak Stats Card (Dark Theme) -->
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djatinmehta007%26theme%3Ddark" alt="Jatin Mehta Streak Stats" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinmehta007&" alt="jatinmehta007" /></p>
 
 <table align="center">
 <tr border="none">
